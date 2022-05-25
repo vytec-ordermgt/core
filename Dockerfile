@@ -1,1 +1,5 @@
 FROM alpine
+RUN
+ADD
+EXPOSE
+CMD
